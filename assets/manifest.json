@@ -1,0 +1,57 @@
+{
+ "projeto": "torre-de-controle-logistica",
+ "gerado_em": "2026-09-26T14:12:20",
+ "base_url": "https://vizudados.github.io/torre-de-controle-logistica/",
+ "arquivos": [
+  {
+   "file": "assets/capa-loop-logistica-f41bd9e69419.mp4",
+   "bytes": 4218518,
+   "sha256": "f41bd9e69419db212f862e1d02004a75723c85b9889fc46c93b6db0ae9ecaf2a"
+  },
+  {
+   "file": "assets/poster-logistica-05e1277c413f.jpg",
+   "bytes": 161082,
+   "sha256": "05e1277c413f7510995acb26098735e08aef447ec5827608813445f5e596e6e4"
+  },
+  {
+   "file": "assets/capa-filme-logistica-ecc22f3926f9.mp4",
+   "bytes": 4699170,
+   "sha256": "ecc22f3926f91a26e8e4d72e55684a9da2645c7e827c2929c9ced7db2d9aa5d4"
+  },
+  {
+   "file": "assets/poster-inicio-3c330df60934.jpg",
+   "bytes": 109979,
+   "sha256": "3c330df60934a4f53d03b56947b40e82d27caee71aebbd414986a935c052cb14"
+  },
+  {
+   "file": "assets/palco-vazio-0a7e18fab80f.jpg",
+   "bytes": 10741,
+   "sha256": "0a7e18fab80fcf54fa5ef1bfc8def6915d08761d3b48daf7178798fa5b7628d1"
+  },
+  {
+   "file": "assets/palco-mapa-d94b8a5bb16c.jpg",
+   "bytes": 92170,
+   "sha256": "d94b8a5bb16c5e342c7e42ae64ee61891e56aee24c445e4d3b28cd8c0fc79fa6"
+  },
+  {
+   "file": "assets/papel-de-parede-logistica-b2b8e1d07a70.svg",
+   "bytes": 670974,
+   "sha256": "b2b8e1d07a705ec4689663018cacc79ec796551920a59337ea5d5ecf4ef1de6d"
+  },
+  {
+   "file": "assets/capa-filme-laco-1c9995bc3c75.mp4",
+   "bytes": 4937164,
+   "sha256": "1c9995bc3c75528144b722669e66d8ed256668e58710957d33e26c957068b790"
+  },
+  {
+   "file": "assets/poster-laco-05e1277c413f.jpg",
+   "bytes": 161082,
+   "sha256": "05e1277c413f7510995acb26098735e08aef447ec5827608813445f5e596e6e4"
+  },
+  {
+   "file": "assets/capa-filme-laco-5efceea82604.mp4",
+   "bytes": 4932828,
+   "sha256": "5efceea826042ded9592e932fe5c4990a109e95ea71d0f51f92aafaa84fe9bca"
+  }
+ ]
+}
